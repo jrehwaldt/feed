@@ -26,6 +26,7 @@
     "blog"
   ],
   "dependencies": {
+    "mime-types": "^2.1.9",
     "xml": ">= 0.0.5"
   },
   "devDependencies": {
